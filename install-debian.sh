@@ -1,5 +1,5 @@
 # Verbindung Host -> LXC
-pct enter <vmid>
+pct console <vmid>
 
 # Dateien kopieren
 pct push <vmid> <lokaler_dateipfad> <zielpfad_im_container>
